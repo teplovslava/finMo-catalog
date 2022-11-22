@@ -1828,7 +1828,7 @@ footer{
     padding-bottom: 356px;
 }
 
-.footer__phone-number {
+.number-small {
     font-size: 18px;
     margin-bottom: 3px;
     display: inline-block;
